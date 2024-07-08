@@ -43,7 +43,7 @@ export default function Home() {
           </Text>
           <Text
             style={{
-              paddingVertical: 5,
+              paddingVertical: 4,
               paddingHorizontal: 14,
               color: "white",
             }}
